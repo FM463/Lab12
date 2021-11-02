@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\12Lab\12Lab\obj\Debug\netcoreapp3.1\12Lab.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\12Lab\12Lab\obj\Debug\netcoreapp3.1\12Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\12Lab\12Lab\obj\Debug\netcoreapp3.1\12Lab.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\12Lab\12Lab\obj\Debug\netcoreapp3.1\12Lab.AssemblyInfo.cs
+C:\Users\user\source\repos\12Lab\12Lab\obj\Debug\netcoreapp3.1\12Lab.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\12Lab\12Lab\bin\Debug\netcoreapp3.1\12Lab.exe
+C:\Users\user\source\repos\12Lab\12Lab\bin\Debug\netcoreapp3.1\12Lab.deps.json
+C:\Users\user\source\repos\12Lab\12Lab\bin\Debug\netcoreapp3.1\12Lab.runtimeconfig.json
+C:\Users\user\source\repos\12Lab\12Lab\bin\Debug\netcoreapp3.1\12Lab.runtimeconfig.dev.json
+C:\Users\user\source\repos\12Lab\12Lab\bin\Debug\netcoreapp3.1\12Lab.dll
+C:\Users\user\source\repos\12Lab\12Lab\bin\Debug\netcoreapp3.1\12Lab.pdb
+C:\Users\user\source\repos\12Lab\12Lab\obj\Debug\netcoreapp3.1\12Lab.dll
+C:\Users\user\source\repos\12Lab\12Lab\obj\Debug\netcoreapp3.1\12Lab.pdb
+C:\Users\user\source\repos\12Lab\12Lab\obj\Debug\netcoreapp3.1\12Lab.genruntimeconfig.cache
